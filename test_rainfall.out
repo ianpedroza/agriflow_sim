@@ -1,0 +1,326 @@
+ KINEROS2 Compiled 15-Sep-2017 with Intel Fortran XE 2013   
+
+ Title: test                                                                  
+
+ Parameter File Used....... test_rainfall.par
+ Rainfall File Used........ test_rainfall.pre
+
+ Length of Run, minutes.... 300                 
+ Time Step, minutes........ 3                   
+ Use Courant criteria?..... Y
+ Simulate Sed. Transport?.. N
+ Multiplier file (if any).. Y
+ Tabular Summary?.......... Y
+
+ Multipliers Used:
+
+ Saturated Conductivity... 0.5                 
+ Manning n................ 1                   
+ CV of Ksat............... 1                   
+ Capillary Drive Coeff.... 1.5                 
+ Intercepted Depth........ 1                   
+ Sediment Cohesion Coeff.. 0                   
+ Sediment Splash Coeff.... 0                   
+
+
+  Plane      1:  based on length and parameter CLEN,
+  the numerical increment of  175.1 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane      3:  based on length and parameter CLEN,
+  the numerical increment of  164.0 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane      5:  based on length and parameter CLEN,
+  the numerical increment of  150.1 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane      7:  based on length and parameter CLEN,
+  the numerical increment of  152.9 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane      9:  based on length and parameter CLEN,
+  the numerical increment of  147.3 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     10:  based on length and parameter CLEN,
+  the numerical increment of  144.6 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     12:  based on length and parameter CLEN,
+  the numerical increment of  144.6 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     13:  based on length and parameter CLEN,
+  the numerical increment of  141.8 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     14:  based on length and parameter CLEN,
+  the numerical increment of  122.3 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     17:  based on length and parameter CLEN,
+  the numerical increment of  130.6 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     19:  based on length and parameter CLEN,
+  the numerical increment of  127.9 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     22:  based on length and parameter CLEN,
+  the numerical increment of  125.1 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     26:  based on length and parameter CLEN,
+  the numerical increment of  122.3 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     29:  based on length and parameter CLEN,
+  the numerical increment of  119.5 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     32:  based on length and parameter CLEN,
+  the numerical increment of  116.8 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     35:  based on length and parameter CLEN,
+  the numerical increment of  114.0 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     38:  based on length and parameter CLEN,
+  the numerical increment of  111.2 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     41:  based on length and parameter CLEN,
+  the numerical increment of  108.4 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     44:  based on length and parameter CLEN,
+  the numerical increment of  102.8 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane     47:  based on length and parameter CLEN,
+  the numerical increment of  100.1 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+ 
+Channel Elem.    100 rating exceeded at time         15.0
+ 
+ 
+Channel Elem.    101 rating exceeded at time         12.0
+ 
+ 
+Channel Elem.    102 rating exceeded at time         12.0
+ 
+ 
+Channel Elem.    103 rating exceeded at time          9.0
+ 
+ 
+Channel Elem.    104 rating exceeded at time         12.0
+ 
+ 
+Channel Elem.    105 rating exceeded at time          9.0
+ 
+ 
+Channel Elem.    106 rating exceeded at time         12.0
+ 
+ 
+Channel Elem.    107 rating exceeded at time         12.0
+ 
+ 
+Channel Elem.    108 rating exceeded at time          6.0
+ 
+ 
+Channel Elem.    109 rating exceeded at time         12.0
+ 
+ 
+Channel Elem.    110 rating exceeded at time          6.0
+ 
+ 
+Channel Elem.    111 rating exceeded at time         12.0
+ 
+ 
+Channel Elem.    112 rating exceeded at time          9.0
+ 
+ 
+Channel Elem.    113 rating exceeded at time          9.0
+ 
+ 
+Channel Elem.    114 rating exceeded at time          9.0
+ 
+ 
+Channel Elem.    115 rating exceeded at time          6.0
+ 
+ 
+Channel Elem.    116 rating exceeded at time          9.0
+ 
+ 
+Channel Elem.    117 rating exceeded at time          6.0
+ 
+ 
+Channel Elem.    118 rating exceeded at time          6.0
+ 
+ 
+Channel Elem.    119 rating exceeded at time          3.0
+ 
+ 
+Channel Elem.    120 rating exceeded at time          6.0
+ 
+ 
+Channel Elem.    121 rating exceeded at time          3.0
+ 
+ 
+Channel Elem.    122 rating exceeded at time         15.0
+ 
+ 
+Channel Elem.    123 rating exceeded at time         18.0
+ 
+ 
+Channel Elem.    124 rating exceeded at time         12.0
+ 
+ 
+Channel Elem.    125 rating exceeded at time         15.0
+ 
+ 
+ Input error - unconnected element: ID =   124
+ 
+  77 elements Processed
+
+ Event Volume Summary:
+ 
+             Rainfall   0.8590870 in       33095.65 cu ft
+   Plane infiltration   0.6839920          26350.26
+ Channel infiltration   0.0886231           3414.14
+         Interception   0.0050000            192.62
+              Storage   0.0016127             62.13
+              Outflow   0.0146738            565.30
+ 
+ Error (Volume in - Volume out - Storage) = 8 percent!
+ 
+ Time step was adjusted to meet Courant condition
+ 
+ Total watershed area = 10.61273 ac
+ 
+ 
+ 
+                     Tabular Summary of Element Hydrologic Components
+
+    ID  Element  Element Cumulated  Inflow  Rainfall Outflow   Peak    Total  Initial
+         Type     Area     Area                                Flow    Infil   Water 
+                   ft^2    ft^2     cu ft    cu ft    cu ft    in/hr   cu ft  Content
+     1    Plane   7775.6    7775.6     0.00   537.17    60.90    0.04  474.78  0.1257
+     2    Plane    617.2     617.2     0.00    54.93    18.64    0.54   36.22  0.1257
+     3    Plane   7281.6    7281.6     0.00   500.02    56.84    0.04  441.34  0.1257
+     4    Plane    617.2     617.2     0.00    55.93    19.81    0.56   36.10  0.1257
+     5    Plane  20056.7   20056.7     0.00  1468.23   411.36    0.31 1050.48  0.1257
+     6    Plane   1234.3    1234.3     0.00   100.50    34.99    0.56   65.41  0.1257
+     7    Plane   6788.8    6788.8     0.00   505.96   100.97    0.10  399.70  0.1257
+     8    Plane    617.2     617.2     0.00    56.93    20.25    0.56   36.66  0.1257
+     9    Plane  26223.8   26223.8     0.00  1891.78   503.22    0.28 1379.19  0.1257
+    10    Plane 167157.6  167157.6     0.00 12497.06  2421.09    0.13 9998.75  0.1257
+    11    Plane    494.0     494.0     0.00    46.10    16.48    0.56   29.60  0.1257
+    12    Plane  25729.9   25729.9     0.00  1418.21   113.52    0.06 1298.42  0.1257
+    13    Plane  25235.9   25235.9     0.00  1407.44   116.94    0.06 1284.71  0.1257
+    14    Plane   5431.2    5431.2     0.00   401.94   119.70    0.38  281.22  0.1257
+    15    Plane  12865.0   12865.0     0.00  1149.02   323.34    0.20  818.88  0.1257
+    16    Plane    246.4     246.4     0.00    17.49     3.93    0.26   13.56  0.1257
+    17    Plane   5800.9    5800.9     0.00   418.13    72.90    0.11  342.73  0.1257
+    18    Plane    370.7     370.7     0.00    25.20     5.00    0.23   20.19  0.1257
+    19    Plane  11355.3   11355.3     0.00   784.47   133.36    0.15  648.31  0.1257
+    20    Plane   2962.6    2962.6     0.00   260.55    71.90    0.20  187.26  0.1257
+    21    Plane    246.4     246.4     0.00    16.35     3.10    0.21   13.26  0.1257
+    22    Plane  16713.4   16713.4     0.00  1081.52   155.67    0.15  922.91  0.1257
+    23    Plane   2715.1    2715.1     0.00   237.85    65.84    0.21  170.80  0.1257
+    24    Plane    246.4     246.4     0.00    15.67     2.63    0.20   13.06  0.1257
+    25    Plane    370.7     370.7     0.00    33.93    11.98    0.43   21.93  0.1257
+    26    Plane  10862.5   10862.5     0.00   670.35    82.61    0.13  586.10  0.1257
+    27    Plane   2345.4    2345.4     0.00   204.67    57.22    0.24  146.60  0.1257
+    28    Plane    246.4     246.4     0.00    22.40     7.86    0.42   14.54  0.1257
+    29    Plane   5306.9    5306.9     0.00   482.05   155.83    0.36  325.10  0.1257
+    30    Plane   2097.9    2097.9     0.00   182.35    51.22    0.25  130.45  0.1257
+    31    Plane    246.4     246.4     0.00    22.25     7.72    0.41   14.53  0.1257
+    32    Plane   5183.7    5183.7     0.00   467.69   149.59    0.36  317.09  0.1257
+    33    Plane   1974.7    1974.7     0.00   170.96    47.96    0.26  122.39  0.1257
+    34    Plane    246.4     246.4     0.00    22.10     7.58    0.41   14.52  0.1257
+    35    Plane   5060.5    5060.5     0.00   453.48   143.28    0.35  309.21  0.1257
+    36    Plane   1851.5    1851.5     0.00   159.66    44.74    0.27  114.40  0.1257
+    37    Plane    123.2     123.2     0.00    11.01     3.78    0.40    7.23  0.1257
+    38    Plane   4937.3    4937.3     0.00   439.42   137.26    0.35  301.24  0.1257
+    39    Plane   1728.3    1728.3     0.00   106.29    11.59    0.08   94.18  0.1257
+    40    Plane    246.4     246.4     0.00    21.95     7.43    0.40   14.51  0.1257
+    41    Plane   4814.1    4814.1     0.00   296.48    36.23    0.13  259.53  0.1257
+    42    Plane   1605.1    1605.1     0.00    99.24    11.27    0.08   87.55  0.1257
+    43    Plane    370.7     370.7     0.00    32.79    10.90    0.39   21.87  0.1257
+    44    Plane   4566.5    4566.5     0.00   284.54    36.57    0.13  247.21  0.1257
+    45    Plane   2961.5    2961.5     0.00   184.07    21.70    0.09  161.63  0.1257
+    46    Plane    246.4     246.4     0.00    15.29     2.36    0.19   12.94  0.1257
+    47    Plane   4443.3    4443.3     0.00   278.63    36.76    0.14  241.05  0.1257
+    48    Plane   1357.5    1357.5     0.00    85.27    10.70    0.10   74.27  0.1257
+    49    Plane    246.4     246.4     0.00    15.39     2.41    0.20   12.99  0.1257
+    50    Plane  47599.2   47599.2     0.00  3036.47   427.34    0.14 2601.09  0.1257
+    51    Plane   2468.6    2468.6     0.00   155.87    23.18    0.19  132.59  0.1257
+   100  Channel      0.0    8392.7    79.55     0.00    67.97    0.05   11.29  0.0908
+   101  Channel      0.0    7898.8    76.65     0.00    62.62    0.05   13.66  0.0908
+   102  Channel      0.0   29683.7   514.82     0.00   479.96    0.23   33.94  0.0908
+   103  Channel      0.0   15304.7   183.87     0.00   162.47    0.07   20.69  0.0908
+   104  Channel      0.0  223065.2  3407.35     0.00  3233.89    0.14  173.44  0.0908
+   105  Channel      0.0   41528.5   292.58     0.00   246.47    0.05   44.77  0.0908
+   106  Channel      0.0  253732.4  3470.52     0.00  3237.93    0.13  231.97  0.0908
+   107  Channel      0.0   54639.9   574.06     0.00   511.17    0.08   61.67  0.0908
+   108  Channel      0.0  259904.0  3314.60     0.00  2998.46    0.11  316.88  0.0908
+   109  Channel      0.0   68957.8   716.70     0.00   643.89    0.09   71.52  0.0908
+   110  Channel      0.0  276863.8  3156.32     0.00  2903.37    0.10  251.46  0.0908
+   111  Channel      0.0   71919.3   712.50     0.00   621.86    0.08   88.85  0.0908
+   112  Channel      0.0  288097.0  2998.18     0.00  2743.90    0.10  251.15  0.0908
+   113  Channel      0.0   74511.1   687.14     0.00   591.78    0.08   92.36  0.0908
+   114  Channel      0.0  295501.8  2950.91     0.00  2706.74    0.09  240.03  0.0908
+   115  Channel      0.0   79941.3   749.22     0.00   664.54    0.07   81.25  0.0908
+   116  Channel      0.0  297722.9  2763.67     0.00  2527.38    0.08  232.39  0.0908
+   117  Channel      0.0   86853.2   852.88     0.00   732.82    0.07  115.87  0.0908
+   118  Channel      0.0  302783.4  2668.08     0.00  2442.02    0.08  221.20  0.0908
+   119  Channel      0.0   88827.9   752.06     0.00   672.90    0.06   76.53  0.0908
+   120  Channel      0.0  309202.5  2488.43     0.00  2278.02    0.07  206.12  0.0908
+   121  Channel      0.0   93765.2   720.68     0.00   648.09    0.06   69.84  0.0908
+   122  Channel      0.0  312410.4  2301.14     0.00  2112.00    0.06  184.52  0.0908
+   123  Channel      0.0   99566.1   695.94     0.00   622.63    0.05   71.04  0.0908
+   124  Channel      0.0  360256.0  2541.73     0.00  2363.34    0.06  173.21  0.0908
+   125  Channel      0.0  102034.7   646.14     0.00   565.30    0.04   78.49  0.0908

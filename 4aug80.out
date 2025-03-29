@@ -1,0 +1,330 @@
+ KINEROS2 Compiled 15-Sep-2017 with Intel Fortran XE 2013   
+
+ Title: aug 4                                                                 
+
+ Parameter File Used....... wg11.par
+ Rainfall File Used........ 4Aug80.pre
+
+ Length of Run, minutes.... 360                 
+ Time Step, minutes........ 3                   
+ Use Courant criteria?..... Y
+ Simulate Sed. Transport?.. N
+ Multiplier file (if any).. Y
+ Tabular Summary?.......... Y
+
+ Multipliers Used:
+
+ Saturated Conductivity... 0.5                 
+ Manning n................ 1                   
+ CV of Ksat............... 1                   
+ Capillary Drive Coeff.... 1.5                 
+ Intercepted Depth........ 1                   
+ Sediment Cohesion Coeff.. 0                   
+ Sediment Splash Coeff.... 0                   
+
+
+  Plane     10:  based on length and parameter CLEN,
+  the numerical increment of  294.0 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane    136:  based on length and parameter CLEN,
+  the numerical increment of  270.3 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane    137:  based on length and parameter CLEN,
+  the numerical increment of  169.4 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Channel     23:  based on length and parameter CLEN,
+  the numerical increment of  503.6  f is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+ 
+Channel Elem.     23 rating exceeded at time          9.0
+ 
+
+  Plane    164:  based on length and parameter CLEN,
+  the numerical increment of  309.7 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane    165:  based on length and parameter CLEN,
+  the numerical increment of  192.3 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Channel     36:  based on length and parameter CLEN,
+  the numerical increment of  469.3  f is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+ 
+Channel Elem.     36 rating exceeded at time         30.0
+ 
+
+  Plane    142:  based on length and parameter CLEN,
+  the numerical increment of  278.1 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane    167:  based on length and parameter CLEN,
+  the numerical increment of  178.6 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Channel     26:  based on length and parameter CLEN,
+  the numerical increment of  274.1  f is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+ 
+Channel Elem.     26 rating exceeded at time         30.0
+ 
+
+  Plane     44:  based on length and parameter CLEN,
+  the numerical increment of  266.0 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane    251:  based on length and parameter CLEN,
+  the numerical increment of  272.3 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane    255:  based on length and parameter CLEN,
+  the numerical increment of  232.6 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Channel     71:  based on length and parameter CLEN,
+  the numerical increment of  773.9  f is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+ 
+Channel Elem.     71 rating exceeded at time          9.0
+ 
+
+  Plane    143:  based on length and parameter CLEN,
+  the numerical increment of  123.2 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Plane    256:  based on length and parameter CLEN,
+  the numerical increment of  186.2 ft is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+
+  Channel     27:  based on length and parameter CLEN,
+  the numerical increment of  228.5  f is too large for
+  realistic numerical solution of the flow equation, and may 
+  give  misleading results.
+
+ 
+Channel Elem.     27 rating exceeded at time         30.0
+ 
+ 
+ Channel Elem.     27
+ 
+ Contributing area = 1551.028 ac
+ 
+                                           theta   rel.sat.
+  surface initial water content =         0.0908   0.1000
+  estimated wilting point water content = 0.0571   0.0066
+  estimated field capacity =              0.1053   0.1402
+  3-parameter soil infiltration: alpha = 0.8000
+ 
+ Peak flow = 665.6793 cu ft/s (0.4256390 in/hr) at 64.7 min 
+ 
+        Water balance     
+ -------------------------
+   Rain:         0. cu ft
+ Inflow:   1681697. cu ft 
+ Infilt:     46086. cu ft   
+ Stored:       124. cu ft
+    Out:   1637509. cu ft
+  Error:      -0.12 %
+ 
+  Elapsed Time      Rainfall      Outflow      Outflow
+           min         in/hr        in/hr      cu ft/s
+ 
+           0.0      0.000000    0.0000000       0.0000
+           3.0      0.043669    0.0000000       0.0000
+           6.0      0.154910    0.0000000       0.0000
+           9.0      0.305156    0.0000000       0.0000
+          12.0      0.327726    0.0000000       0.0000
+          15.0      0.242609    0.0000000       0.0000
+          18.0      0.373782    0.0000000       0.0000
+          21.0      0.168901    0.0000000       0.0000
+          24.0      0.406647    0.0000000       0.0000
+          27.0      1.138898    0.0000000       0.0000
+          30.0      2.921580    0.0000000       0.0000
+          33.0      2.630198    0.0000000       0.0000
+          36.0      2.578035    0.0000000       0.0000
+          39.0      2.667990    0.0000000       0.0000
+          42.0      2.491061    0.0000000       0.0000
+          45.0      1.815742    0.0000000       0.0000
+          48.0      1.125368    0.0000000       0.0000
+          51.0      1.136341    0.0000000       0.0000
+          54.0      0.937885    0.1245344     194.7660
+          57.0      1.000791    0.2732631     427.3705
+          60.0      0.753315    0.3840592     600.6505
+          63.0      0.991113    0.4206097     657.8138
+          66.0      0.938745    0.4236755     662.6085
+          69.0      0.524747    0.4146770     648.5352
+          72.0      0.295276    0.3984736     623.1938
+          75.0      0.211442    0.3781202     591.3622
+          78.0      0.182846    0.3568102     558.0342
+          81.0      0.082839    0.3337548     521.9767
+          84.0      0.069939    0.3066152     479.5316
+          87.0      0.066300    0.2758868     431.4740
+          90.0      0.056176    0.2441779     381.8827
+          93.0      0.031986    0.2135848     334.0365
+          96.0      0.031241    0.1852134     289.6650
+          99.0      0.021018    0.1594314     249.3432
+         102.0      0.019717    0.1362065     213.0206
+         105.0      0.012701    0.1156658     180.8958
+         108.0      0.011594    0.0979073     153.1224
+         111.0      0.008791    0.0827297     129.3853
+         114.0      0.007389    0.0698022     109.1674
+         117.0      0.007130    0.0588067      91.9709
+         120.0      0.007001    0.0494684      77.3662
+         123.0      0.007001    0.0418337      65.4259
+         126.0      0.006525    0.0355895      55.6604
+         129.0      0.006995    0.0303022      47.3912
+         132.0      0.006995    0.0258310      40.3985
+         135.0      0.006994    0.0220338      34.4598
+         138.0      0.006995    0.0188283      29.4465
+         141.0      0.006994    0.0161270      25.2218
+         144.0      0.007699    0.0138179      21.6106
+         147.0      0.009106    0.0118693      18.5630
+         150.0      0.009108    0.0102385      16.0126
+         153.0      0.009107    0.0088720      13.8753
+         156.0      0.007897    0.0077275      12.0854
+         159.0      0.007293    0.0067615      10.5747
+         162.0      0.007292    0.0059405       9.2906
+         165.0      0.007292    0.0052427       8.1994
+         168.0      0.012561    0.0046422       7.2601
+         171.0      0.014412    0.0041211       6.4451
+         174.0      0.012406    0.0036686       5.7375
+         177.0      0.011403    0.0032745       5.1212
+         180.0      0.011403    0.0029300       4.5824
+         183.0      0.011093    0.0026282       4.1103
+         186.0      0.008954    0.0023628       3.6954
+         189.0      0.000418    0.0021286       3.3291
+         192.0      0.000418    0.0019211       3.0045
+         195.0      0.000418    0.0017368       2.7162
+         198.0      0.000418    0.0015726       2.4595
+         201.0      0.000419    0.0014262       2.2305
+         204.0      0.000418    0.0012953       2.0257
+         207.0      0.000418    0.0011779       1.8422
+         210.0      0.000418    0.0010725       1.6774
+         213.0      0.000418    0.0009788       1.5307
+         216.0      0.000418    0.0008941       1.3983
+         219.0      0.000419    0.0008176       1.2787
+         222.0      0.000418    0.0007483       1.1703
+         225.0      0.000418    0.0006855       1.0720
+         228.0      0.000418    0.0006285       0.9829
+         231.0      0.000418    0.0005767       0.9020
+         234.0      0.000418    0.0005298       0.8285
+         237.0      0.000419    0.0004871       0.7617
+         240.0      0.000418    0.0004482       0.7010
+         243.0      0.000418    0.0004128       0.6456
+         246.0      0.000418    0.0003805       0.5951
+         249.0      0.000418    0.0003511       0.5491
+         252.0      0.000418    0.0003237       0.5063
+         255.0      0.000419    0.0002977       0.4656
+         258.0      0.000279    0.0002729       0.4268
+         261.0      0.000000    0.0002493       0.3899
+         264.0      0.000000    0.0002271       0.3552
+         267.0      0.000000    0.0002062       0.3224
+         270.0      0.000000    0.0001865       0.2917
+         273.0      0.000000    0.0001681       0.2628
+         276.0      0.000000    0.0001508       0.2358
+         279.0      0.000000    0.0001346       0.2106
+         282.0      0.000000    0.0001198       0.1874
+         285.0      0.000000    0.0001070       0.1673
+         288.0      0.000000    0.0000959       0.1500
+         291.0      0.000000    0.0000863       0.1349
+         294.0      0.000000    0.0000779       0.1218
+         297.0      0.000000    0.0000706       0.1104
+         300.0      0.000000    0.0000641       0.1003
+         303.0      0.000000    0.0000584       0.0913
+         306.0      0.000000    0.0000533       0.0833
+         309.0      0.000000    0.0000487       0.0762
+         312.0      0.000000    0.0000446       0.0698
+         315.0      0.000000    0.0000410       0.0641
+         318.0      0.000000    0.0000377       0.0589
+         321.0      0.000000    0.0000347       0.0543
+         324.0      0.000000    0.0000319       0.0500
+         327.0      0.000000    0.0000294       0.0460
+         330.0      0.000000    0.0000270       0.0422
+         333.0      0.000000    0.0000248       0.0388
+         336.0      0.000000    0.0000228       0.0357
+         339.0      0.000000    0.0000210       0.0329
+         342.0      0.000000    0.0000194       0.0303
+         345.0      0.000000    0.0000179       0.0279
+         348.0      0.000000    0.0000164       0.0257
+         351.0      0.000000    0.0000151       0.0236
+         354.0      0.000000    0.0000139       0.0217
+         357.0      0.000000    0.0000127       0.0199
+         360.0      0.000000    0.0000117       0.0182
+ 
+ 
+  17 elements Processed
+
+ Event Volume Summary:
+ 
+             Rainfall    1.364201 in       7680765. cu ft
+   Plane infiltration    0.950763          5353015.
+ Channel infiltration    0.100875           567951.
+         Interception    0.014000            78823.
+              Storage    0.000113              633.
+              Outflow    0.290842          1637509.
+ 
+ Error (Volume in - Volume out - Storage) < 1 percent
+ 
+ Time step was adjusted to meet Courant condition
+ 
+ Total watershed area = 1551.028 ac
+ 
+ 
+ 
+                     Tabular Summary of Element Hydrologic Components
+
+    ID  Element    Element  Cumulated    Inflow    Rainfall   Outflow   Peak      Total  Initial
+         Type       Area      Area                                      Flow      Infil   Water 
+                     ft^2     ft^2       cu ft      cu ft      cu ft    in/hr     cu ft  Content
+    10    Plane 10335660.0 10335660.0       0.00 1386162.75  451872.72    1.15 924496.31  0.1163
+   136    Plane  8751826.0  8751826.0       0.00 1223354.12  533374.75    2.19 669910.75  0.1187
+   137    Plane  2853780.0  2853780.0       0.00  380107.50  157990.03    1.84 216504.80  0.1218
+   164    Plane  6490923.0  6490923.0       0.00  846188.31  315289.75    1.32 517190.75  0.1207
+   165    Plane  3845115.2  3845115.2       0.00  461165.75  155025.84    0.90 300751.97  0.1238
+   142    Plane  1875115.5  1875115.5       0.00  106339.43     105.17    0.01 105430.97  0.1257
+   167    Plane   921476.7   921476.7       0.00   53515.78     401.38    0.04  52606.41  0.1249
+    44    Plane 11522463.0 11522463.0       0.00 1146322.50  157799.83    0.26 979991.88  0.1187
+   251    Plane  9195489.0  9195489.0       0.00 1009872.44  284807.66    0.69 713193.69  0.1240
+   255    Plane 11091449.0 11091449.0       0.00  961479.56  101874.65    0.31 845560.12  0.1213
+   143    Plane   263755.0   263755.0       0.00   11085.65       1.52    0.00  11069.75  0.1282
+   256    Plane   415710.0   415710.0       0.00   16348.10       0.63    0.00  16307.78  0.1285
+    23  Channel        0.0 21941266.0 1164104.38       0.00  992574.00    1.13 173984.91  0.0908
+    36  Channel        0.0 10336038.0  480954.19       0.00  375284.69    0.75 104826.64  0.0916
+    26  Channel        0.0 35073896.0 1367603.00       0.00 1297308.25    0.80  73509.23  0.0908
+    71  Channel        0.0 31809400.0  552838.88       0.00  384911.12    0.20 169543.83  0.0943
+    27  Channel        0.0 67562760.0 1681697.62       0.00 1637509.12    0.43  46086.36  0.0908
