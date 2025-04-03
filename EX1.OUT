@@ -1,12 +1,12 @@
  KINEROS2 Compiled 15-Sep-2017 with Intel Fortran XE 2013   
 
- Title: ex1                                                                   
+ Title:  test
 
- Parameter File Used....... EX1.PAR
- Rainfall File Used........ EX1.PRE
+ Parameter File Used....... EX1.par
+ Rainfall File Used........ EX1.pre
 
- Length of Run, minutes.... 200                 
- Time Step, minutes........ 1                   
+ Length of Run, minutes.... 200
+ Time Step, minutes........ 1
  Use Courant criteria?..... N
  Simulate Sed. Transport?.. Y
  Multiplier file (if any).. N

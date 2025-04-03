@@ -1,10 +1,1 @@
-test_rainfall.par
-test_rainfall.pre
-test_rainfall.out
-test                                                                  
-300                 
-3                   
-Y
-N
-Y
-Y
+agriflow.par,agriflow.pre,agriflow.out,"agriflow_simulation",10080,5,Y,N,N,Y
